@@ -1,0 +1,12 @@
+/* Webfont: Ninetea-SemiBold */@font-face {
+    font-family: 'NineteaSemBd';
+    src: url('Ninetea-SemiBold.eot'); /* IE9 Compat Modes */
+    src: url('Ninetea-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Ninetea-SemiBold.woff') format('woff'), /* Modern Browsers */
+         url('Ninetea-SemiBold.woff2') format('woff2'), /* Modern Browsers */
+         url('Ninetea-SemiBold.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
